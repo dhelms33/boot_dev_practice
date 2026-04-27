@@ -1,4 +1,4 @@
-from 06_unit_tests.py import *
+from 06_unit_tests import *
 
 run_cases = [
     (1, 200, 300),
